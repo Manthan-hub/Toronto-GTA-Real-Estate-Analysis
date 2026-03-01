@@ -1,23 +1,3 @@
-# Toronto GTA Real Estate Analysis
-
-## Overview
-Analyzed 6,801+ Toronto/GTA properties to identify pricing trends, regional variances, and market segments.
-
-## Key Findings
-- **Market size**: 6,801 properties across 31 regions
-- **Price range**: $359K - $2.8M (average: $1.18M)
-- **Most expensive**: King, ON at $2.07M average
-- **Market concentration**: 48% of properties are $500K-$1M
-- **Bedroom impact**: 3-bedroom homes dominate (44% of market) at $1.1M average
-- **Strong correlation**: Each additional bedroom adds ~$450K to average price
-
-## Tools
-Python (Pandas, NumPy), Matplotlib, Seaborn, Jupyter
-
-## Repo Files
-- `analysis.ipynb` - Full Python analysis code
-- `visualizations/` - 5 charts (bar, histogram, boxplots, heatmap)
-
 # Toronto (GTA) Real Estate Analysis (EDA + Visual Insights)
 
 This project analyzes residential real estate listings in the **Greater Toronto Area (GTA)** to uncover **pricing trends**, **regional differences**, and **property feature impacts** (bedrooms, bathrooms) on home prices. The goal is to turn raw listings data into **clear, decision-ready insights** for buyers, investors, and analysts.
@@ -43,6 +23,16 @@ This project analyzes residential real estate listings in the **Greater Toronto 
 3. How strongly do **bedrooms** and **bathrooms** correlate with listing price?
 4. Which regions fall into high/medium/low price bands (heatmap view)?
 5. What price patterns can guide **investment** or **buying decisions**?
+
+---
+
+## Key Findings
+- **Market size**: 6,801 properties across 31 regions
+- **Price range**: $359K - $2.8M (average: $1.18M)
+- **Most expensive**: King, ON at $2.07M average
+- **Market concentration**: 48% of properties are $500K-$1M
+- **Bedroom impact**: 3-bedroom homes dominate (44% of market) at $1.1M average
+- **Strong correlation**: Each additional bedroom adds ~$450K to average price
 
 ---
 
