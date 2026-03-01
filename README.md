@@ -65,9 +65,6 @@ A region-wise heatmap grouping areas into price bands for quick comparison.
 ## Notebook
 
 Main analysis notebook:
-- `analysis.ipynb`
-
-Recommended rename (optional, more professional):
 - `toronto_gta_real_estate_analysis.ipynb`
 
 ---
